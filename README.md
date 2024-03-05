@@ -8,6 +8,6 @@ A potential network intrusion detection algorithm is proposed, introducing a mul
 This model demonstrates superior training results on the KDD99 and UNSW-NB15 datasets compared to conventional machine learning methods and convolutional neural networks.
 此模型在KDD99和UNSM-NB15数据集进行模型的训练结果优于一般机器学习方法和卷积神经网络。
 
-![models](https://github.com/sunxingyui5/Attention-CNN-Intrusion-Detection-System/blob/main/models.png)
+![model](https://github.com/sunxingyui5/Attention-CNN-Intrusion-Detection-System/blob/main/model.png)
 ![layers](https://github.com/sunxingyui5/Attention-CNN-Intrusion-Detection-System/blob/main/img1.png)
 ![layers](https://github.com/sunxingyui5/Attention-CNN-Intrusion-Detection-System/blob/main/img2.png)
